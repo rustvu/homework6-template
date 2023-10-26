@@ -60,8 +60,8 @@ The homework is graded by test (no partial credits are given for failed tests):
 |shaker        |     5|
 |breadboard    |    10|
 |can           |     5|
-|grate         |    30|
-|prep_board    |    15|
+|grater        |    30|
+|prep_table    |    15|
 |oven          |    10|
 
 Once you __push__ your solution to the repository, GitHub Classroom will run the automated test. I highly recommend to [verify your results of this CI/CD worflow](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/view-autograding-results) - I use these results for grading your work.

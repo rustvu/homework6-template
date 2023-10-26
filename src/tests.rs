@@ -64,7 +64,7 @@ fn breadboard() {
 test_resource_with_capacity!(Can, Sauce);
 
 #[test]
-fn cheese() {
+fn grater() {
     let mut grater = Grater::new(1);
 
     // The factory should produce the proper resource type
