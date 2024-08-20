@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "faucet",
+      "setup": "",
+      "run": "cargo test faucet",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "sack",
+      "setup": "",
+      "run": "cargo test sack",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "jar",
+      "setup": "",
+      "run": "cargo test jar",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "shaker",
+      "setup": "",
+      "run": "cargo test shaker",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "breadboard",
+      "setup": "",
+      "run": "cargo test breadboard",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "can",
+      "setup": "",
+      "run": "cargo test can",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "grater",
+      "setup": "",
+      "run": "cargo test grater",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 30
+    },
+    {
+      "name": "prep_table",
+      "setup": "",
+      "run": "cargo test prep_table",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "oven",
+      "setup": "",
+      "run": "cargo test oven",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
